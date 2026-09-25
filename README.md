@@ -20,6 +20,7 @@ collection to the minimum needed to keep the Game stable and to understand how i
 - We **do not** collect your name, email, contacts, photos, or precise location.
 - We **do not** show ads, and we **do not** sell or share your data with advertisers or data brokers.
 - The Game has **no account or login**.
+- The **signature** you draw in the Game never leaves your device.
 
 ## 1. Information stored on your device only
 
@@ -27,6 +28,8 @@ Your progress, run history, achievements, and settings are stored locally on you
 app's private storage). The full save file is **not transmitted to us** and is removed when you
 uninstall the Game. (An anonymous replay record derived from a finished run may be uploaded
 separately — see §2c.)
+The signature you draw in the Game is stored on your device only. It is **never sent to us**, and it
+is left out of your phone's own backup and transfer to a new phone, so it does not leave the device.
 
 ## 2. Information collected automatically
 
@@ -132,3 +135,5 @@ provide a more prominent notice. Continued use after an update constitutes accep
 ## 12. Contact
 
 Questions or requests: **yzapps.dev@gmail.com**
+
+**Last updated:** 2026-09-25
